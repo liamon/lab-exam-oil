@@ -1,9 +1,10 @@
-t# lab-exam-oil
+# lab-exam-oil
 This is based on the two-hour lab exam I had in my Programming module in First Year, which went towards my final mark.
 
 ## Original Instructions
 - You are given a delimited file containing oil (petrol) price record
 - Your program must read the data into an array of appropriate data structure, e.g.
+
         typedef struct {
           int year;
           double price[12];
