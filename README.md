@@ -1,4 +1,4 @@
-# lab-exam-oil
+t# lab-exam-oil
 This is based on the two-hour lab exam I had in my Programming module in First Year, which went towards my final mark.
 
 ## Original Instructions
@@ -16,7 +16,7 @@ This is based on the two-hour lab exam I had in my Programming module in First Y
 ## Notes
 `oil.txt` needs to be in the same directory/folder as the executable for the program to work properly.
 
-My inital version I handed up had a bug where a missing  `+ i` mean that the value for the year with the highest average price was wrong.
+My inital version I handed up had a bug where a missing  `+ i` meant that the value for the year with the highest average price was wrong.
 I fixed it for uploading it to GitHub.
 
 It was also originally just one file, but I split it into three for GitHub.
